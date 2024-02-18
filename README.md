@@ -2,23 +2,8 @@
 Crypto Wallet Transactions Tracker Bot
 </h1>
 
-</p>
-<p align="center">
-    <img src="https://img.shields.io/github/stars/cankatx/crypto-wallet-tracker">
-    <img src="https://img.shields.io/github/forks/cankatx/crypto-wallet-tracker"> 
-    <br>
-    <img src="https://img.shields.io/github/languages/top/cankatx/crypto-wallet-tracker">
-    <img src="https://img.shields.io/github/last-commit/cankatx/crypto-wallet-tracker">
-    <br>
-    <img src="https://img.shields.io/github/issues/cankatx/crypto-wallet-tracker">
-    <img src="https://img.shields.io/github/issues-closed/cankatx/crypto-wallet-tracker">
-    <br>
-</p>
-
 This is a Telegram bot that tracks the transactions of added Ethereum (ETH) and Binance Coin (BNB) wallets and sends notifications whenever a new transaction occurs. The bot uses the Etherscan and BSCscan APIs to gather information about transactions, and CoinGecko to fetch the current prices of ETH and BNB.
 
-You can contact me for any inquiry; <br>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cankat)
 
 ## Commands
 
@@ -43,7 +28,7 @@ You'll also need to obtain API keys for Etherscan and BSCscan, as well as a Tele
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/cankatx/crypto-wallet-tracker.git`
+1. Clone this repository: `git clone (this repo)`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Replace the following placeholders in the `main.py` file with your API keys and bot token:
 
@@ -55,14 +40,6 @@ You'll also need to obtain API keys for Etherscan and BSCscan, as well as a Tele
     ```
 4. Start the bot: `python main.py`
 
-## Screenshots
-
-  <img src="images/image3.png" width="505" height="395" />
-  <img src="images/image2.png" width="509" height="380" />
-  <img src="images/image1.png" width="470" height="175" />
-</p>
-
 ## Disclaimer
 
 This bot is provided for educational purposes only and should not be used as financial advice. The bot does not have access to your wallet.
-fmtdqo
